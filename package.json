@@ -1,0 +1,23 @@
+{
+  "name": "daydavidson.com",
+  "version": "1.0.0",
+  "description": "DJ's Amazing Website",
+  "main": "index.js",
+  "scripts": {
+    "login": "firebase login",
+    "init": "firebase init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydavidson/daydavidson.com.git"
+  },
+  "author": "DJ Davidson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daydavidson/daydavidson.com/issues"
+  },
+  "homepage": "https://github.com/daydavidson/daydavidson.com#readme",
+  "dependencies": {
+    "firebase-tools": "^9.5.0"
+  }
+}
