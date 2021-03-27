@@ -1,5 +1,5 @@
 {
-  "name": "daydavidson.com",
+  "name": "djdavidson.com",
   "version": "1.0.0",
   "description": "DJ's Amazing Website",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daydavidson/daydavidson.com.git"
+    "url": "git+https://github.com/dayleedavidson/djdavidson.com.git"
   },
   "author": "DJ Davidson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daydavidson/daydavidson.com/issues"
+    "url": "https://github.com/dayleedavidson/djdavidson.com/issues"
   },
-  "homepage": "https://github.com/daydavidson/daydavidson.com#readme",
+  "homepage": "https://github.com/dayleedavidson/djdavidson.com#readme",
   "dependencies": {
     "firebase-tools": "^9.5.0"
   },
